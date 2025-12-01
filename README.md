@@ -1,4 +1,4 @@
-# ✈️ DealPilot 優惠導航員 (Powered by Lemonade)
+# ✈️ DealPilot 優惠助手 (Powered by Lemonade)
 
 > 專為大學生打造的 AI 優惠精算師，基於 **Lemonade 本地推理架構** 與 RAG 技術，提供高隱私、低延遲的「商品 + 支付」最佳化建議。
 
