@@ -3,7 +3,7 @@
 > 專為大學生打造的 AI 優惠精算師，基於 **Lemonade 本地推理架構** 與 RAG 技術，提供高隱私、低延遲的「商品 + 支付」最佳化建議。
 
 ![Python](https://img.shields.io/badge/Python-3.10%2B-blue)
-![Architecture]([https://img.shields.io/badge/Runtime-Lemonade-yellow](https://github.com/lemonade-sdk/lemonade))
+![Architecture](https://github.com/lemonade-sdk/lemonade)
 ![LlamaIndex](https://img.shields.io/badge/AI-LlamaIndex-purple)
 ![Streamlit](https://img.shields.io/badge/Frontend-Streamlit-red)
 ![License](https://img.shields.io/badge/License-MIT-green.svg)
