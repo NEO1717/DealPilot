@@ -1,0 +1,19 @@
+# 忽略 Python 編譯檔
+__pycache__/
+*.pyc
+
+# 忽略虛擬環境
+.venv/
+venv/
+.env
+
+# 忽略敏感設定 (這行最重要！)
+AppConfig.py
+
+# 忽略本地生成的資料庫 (太大了，不適合上傳)
+student_saver_index/
+docstore.json
+
+# IDE 設定
+.idea/
+.vscode/

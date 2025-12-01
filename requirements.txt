@@ -1,0 +1,7 @@
+streamlit>=1.30.0
+llama-index-core
+llama-index-llms-openai-like
+llama-index-embeddings-huggingface
+opencc-python-reimplemented
+nest_asyncio
+python-dotenv
