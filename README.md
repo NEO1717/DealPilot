@@ -54,7 +54,7 @@ cp AppConfig_example.py AppConfig.py
 # 1. 指向 Lemonade 本地伺服器
 LLM_API_BASE = "http://localhost:8000/api/v1"  # Lemonade 預設端口
 
-# 2. 設定專屬識別鑰 (Lemonade 架構通關密語)
+# 2. 設定專屬識別鑰 
 LLM_API_KEY = "lemonade" 
 
 # 3. 指定模型名稱 (需與 Lemonade 啟動的模型一致)
