@@ -2,11 +2,11 @@
 
 > 專為大學生打造的 AI 優惠精算師，基於 **Lemonade 本地推理架構** 與 RAG 技術，提供高隱私、低延遲的「商品 + 支付」最佳化建議。
 
-![Python](https://img.shields.io/badge/Python-3.10%2B-blue)
-![Architecture](https://github.com/lemonade-sdk/lemonade)
-![LlamaIndex](https://img.shields.io/badge/AI-LlamaIndex-purple)
-![Streamlit](https://img.shields.io/badge/Frontend-Streamlit-red)
-![License](https://img.shields.io/badge/License-MIT-green.svg)
+[![Python](https://img.shields.io/badge/Python-3.10%2B-blue)](https://www.python.org/downloads/)
+[![Architecture](https://img.shields.io/badge/Runtime-Lemonade-yellow)](https://github.com/lemonade-sdk/lemonade)
+[![LlamaIndex](https://img.shields.io/badge/AI-LlamaIndex-purple)](https://github.com/run-llama/llama_index)
+[![Streamlit](https://img.shields.io/badge/Frontend-Streamlit-red)](https://github.com/streamlit/streamlit)
+[![License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
 ## 💡 專案亮點
 
 **DealPilot** 是展現現代 AI 應用架構的最佳範例，它整合了先進的本地推理與檢索技術：
@@ -88,7 +88,7 @@ streamlit run Main.py
 ---
 ## ❤️ 致謝 (Acknowledgements)
 
-特別感謝 [Lemonade](https://github.com/這裡填寫Lemonade的正確網址) 專案提供強大的本地推理架構。
+特別感謝 [Lemonade](https://github.com/lemonade-sdk/lemonade) 專案提供強大的本地推理架構。
 本專案 (DealPilot) 的核心推理能力由 Lemonade 驅動，實現了高隱私與低延遲的 AI 應用場景。
 
 Special thanks to the **Lemonade** team for their amazing Local LLM Runtime.
